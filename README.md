@@ -1,5 +1,5 @@
 # Kodai-Arai
-### Data Analyst 
+ 
 
 My name is Kodai and I'm a self-taught Data Analyst. 
 
@@ -7,10 +7,10 @@ The reason I became a data analyst was because of the freedom to manipulate and 
 
 Here is a list of my projects I've completed during my studies. 
 
-# [MySQL e-commerce](https://github.com/KodaiArai1/MySQL-e-commerce)
+### [MySQL e-commerce](https://github.com/KodaiArai1/MySQL-e-commerce)
 A project where I simulated working at an e-commerce company that has recently launched a new product. I work particularly closely with the website manager, as well as  other members in the company. There is a summary of the first 6 months to showcase to the board members and I used this opportunity to apply my Tableua skills here. 
 
-# [Exploratory Data Analysis - Space Exploration](https://github.com/KodaiKonnerArai/Exploratory-Data-Analysis-Space-Exploration)
+## [Exploratory Data Analysis - Space Exploration](https://github.com/KodaiKonnerArai/Exploratory-Data-Analysis-Space-Exploration)
 A passionate project where I explore the Rocket Launch dataset. 
 
 
