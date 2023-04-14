@@ -1,4 +1,4 @@
-# Kodai-Arai
+# Kodai Konner Arai
  
 
 My name is Kodai and I'm a self-taught Data Analyst. 
